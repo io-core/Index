@@ -1,4 +1,6 @@
 package,license,version,location
+Doc,PROJECTOBERON,v5.1.0,github.com/io-core/Doc
+Net,PROJECTOBERON,v5.1.0,github.com/io-core/Net
 Edit,PROJECTOBERON,v5.1.0,github.com/io-core/Edit
 Files,PROJECTOBERON,v5.0.20130815,github.com/io-core/Files
 Kernel,PROJECTOBERON,v5.0.20140204,github.com/io-core/Kernel
